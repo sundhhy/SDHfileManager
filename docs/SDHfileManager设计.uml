@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XPD:PROJECT xmlns:XPD="http://www.staruml.com" version="1">
+<XPD:HEADER>
+<XPD:SUBUNITS>
+</XPD:SUBUNITS>
+<XPD:PROFILES>
+</XPD:PROFILES>
+</XPD:HEADER>
+<XPD:BODY>
+<XPD:OBJ name="DocumentElement" type="UMLProject" guid="bbnAnpi1P0SAfHdMXdfGXAAA">
+<XPD:ATTR name="Title" type="string">初步设计</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedElements[0]" type="UMLModel" guid="HBy7lrM5OUWxsAZNMDnxZwAA">
+<XPD:ATTR name="Name" type="string">要做的事</XPD:ATTR>
+<XPD:ATTR name="InnerName" type="string">要做的事</XPD:ATTR>
+<XPD:REF name="Namespace">bbnAnpi1P0SAfHdMXdfGXAAA</XPD:REF>
+<XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedDiagrams[0]" type="UMLUseCaseDiagram" guid="cQQL7Rr55UCW94Ux1/1pygAA">
+<XPD:ATTR name="Name" type="string">整体用例</XPD:ATTR>
+<XPD:REF name="DiagramOwner">HBy7lrM5OUWxsAZNMDnxZwAA</XPD:REF>
+<XPD:OBJ name="DiagramView" type="UMLUseCaseDiagramView" guid="F4FGBxpX/UuvpZWpTLbv3AAA">
+<XPD:REF name="Diagram">cQQL7Rr55UCW94Ux1/1pygAA</XPD:REF>
+<XPD:ATTR name="#OwnedViews" type="integer">2</XPD:ATTR>
+<XPD:OBJ name="OwnedViews[0]" type="UMLUseCaseView" guid="9BqoiWl5k0SppmwW9sKyIQAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">236</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">92</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">234</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
+<XPD:REF name="Model">Ez9cgTcnLUS26G/8oSxgagAA</XPD:REF>
+<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="qJOAb1XXjUOyyfJ19LVKZwAA">
+<XPD:OBJ name="NameLabel" type="LabelView" guid="qdZGFzEpuUOQl6tAFGEJsgAA">
+<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">可以对文件的类型进行过滤</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="2xU7paNoQk6hzAOHPxDnxAAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="PropertyLabel" type="LabelView" guid="07dcf0b+WkWMg/xb1isb+gAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="keNINZYez0yFRgGszKcUaQAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Model">Ez9cgTcnLUS26G/8oSxgagAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OperationCompartment" type="UMLOperationCompartmentView" guid="KMFme/aEP0WEs3O+K2MPrwAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Model">Ez9cgTcnLUS26G/8oSxgagAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="ExtensionPointCompartment" type="UMLExtensionPointCompartmentView" guid="HPEoNyPkcU6fi/zpqeaDlQAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Model">Ez9cgTcnLUS26G/8oSxgagAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedViews[1]" type="UMLUseCaseView" guid="LudLBfXSUUypqKyp82nk3AAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">280</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">200</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">197</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
+<XPD:REF name="Model">IZJMoEXEak2yoPrHmq/s4wAA</XPD:REF>
+<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="ZS8grXLxGEmp7VcE9rFRUAAA">
+<XPD:OBJ name="NameLabel" type="LabelView" guid="/+dyIpm/j0+aRnELcM7N+QAA">
+<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">对电脑本地文件搜索</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="nKwYn6f9+Eqw5pim1U2r2QAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="PropertyLabel" type="LabelView" guid="e8SCU1IKTk6AYzaSgZi+9gAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="yLXMue/400iCOvkocBbNagAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Model">IZJMoEXEak2yoPrHmq/s4wAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OperationCompartment" type="UMLOperationCompartmentView" guid="MZ5tMcqvg0C4KJzQMLvozgAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Model">IZJMoEXEak2yoPrHmq/s4wAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="ExtensionPointCompartment" type="UMLExtensionPointCompartmentView" guid="KwH1JSjOAkmgSs9WDrynVQAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Model">IZJMoEXEak2yoPrHmq/s4wAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:ATTR name="#OwnedElements" type="integer">2</XPD:ATTR>
+<XPD:OBJ name="OwnedElements[0]" type="UMLUseCase" guid="Ez9cgTcnLUS26G/8oSxgagAA">
+<XPD:ATTR name="Name" type="string">可以对文件的类型进行过滤</XPD:ATTR>
+<XPD:ATTR name="InnerName" type="string">可以对文件的类型进行过滤</XPD:ATTR>
+<XPD:REF name="Namespace">HBy7lrM5OUWxsAZNMDnxZwAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">9BqoiWl5k0SppmwW9sKyIQAA</XPD:REF>
+<XPD:REF name="Views[1]">keNINZYez0yFRgGszKcUaQAA</XPD:REF>
+<XPD:REF name="Views[2]">KMFme/aEP0WEs3O+K2MPrwAA</XPD:REF>
+<XPD:REF name="Views[3]">HPEoNyPkcU6fi/zpqeaDlQAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[1]" type="UMLUseCase" guid="IZJMoEXEak2yoPrHmq/s4wAA">
+<XPD:ATTR name="Name" type="string">对电脑本地文件搜索</XPD:ATTR>
+<XPD:ATTR name="InnerName" type="string">对电脑本地目录的过滤</XPD:ATTR>
+<XPD:REF name="Namespace">HBy7lrM5OUWxsAZNMDnxZwAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">LudLBfXSUUypqKyp82nk3AAA</XPD:REF>
+<XPD:REF name="Views[1]">yLXMue/400iCOvkocBbNagAA</XPD:REF>
+<XPD:REF name="Views[2]">MZ5tMcqvg0C4KJzQMLvozgAA</XPD:REF>
+<XPD:REF name="Views[3]">KwH1JSjOAkmgSs9WDrynVQAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:BODY>
+</XPD:PROJECT>
